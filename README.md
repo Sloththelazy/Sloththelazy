@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sloththelazy
-- 👀 I’m interested in Web development , Android Development, Game Development, iOS Development, also I like video editing, UI/UX Designing. Currently I am pursuing my goal of becoming a great compitetive programmer. 
+- 👀 I’m interested in Web development and iOS Development, also I like video editing, UI/UX Designing. Currently I am pursuing my goal of becoming a great compitetive programmer. 
 - 🌱 I’m currently learning I have command over Java programming language and I am learning C++.
 - 💞️ I’m looking to collaborate on Anything which interests me 
 - 📫 How to reach me email - jeevantprakharsingh2004@gmail.com
