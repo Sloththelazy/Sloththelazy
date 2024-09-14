@@ -1,44 +1,67 @@
-<h1 align="center">Hi <img src="https://github.com/Sloththelazy/Sloththelazy/blob/main/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif">, I'm Jeevant Singh</h1>
+
+<div align="center">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240914T021216Z&X-Amz-Expires=300&X-Amz-Signature=fcf01a70fb6682dfb84ce0983ee05ff8b0bae7e9f7779a5e84a42c3efddf85f1&X-Amz-SignedHeaders=host&actor_id=117072021&key_id=0&repo_id=588181932">
+</div>
+<h1 align="center">Hi <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240914T020938Z&X-Amz-Expires=300&X-Amz-Signature=c5b528d62e3b122adc5823bbe4db8fc6c4603678216da5f65c48977f4f7d4ad1&X-Amz-SignedHeaders=host&actor_id=117072021&key_id=0&repo_id=588181932" width= 100> , I'm Jeevant Singh</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Developer</h3>
 <div align = "center">
-    <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Alt Text">  
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240914T023546Z&X-Amz-Expires=300&X-Amz-Signature=a7505ef22ed936a66aad62b72d76a286b55e1562c4f1d2bf7523ca5f6e266c74&X-Amz-SignedHeaders=host&actor_id=117072021&key_id=0&repo_id=588181932" alt="Alt Text">  
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Alt Text">
-  <img src="" alt="Alt Text"> 
-  <img src="" alt="Alt Text">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width = 100>
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240914T015125Z&X-Amz-Expires=300&X-Amz-Signature=8edda3d8be730289236a9a63a9067fdf824686df2ff2e5f1f989c3514236de2b&X-Amz-SignedHeaders=host&actor_id=117072021&key_id=0&repo_id=588181932" width= 100>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240914T015453Z&X-Amz-Expires=300&X-Amz-Signature=9daba6356135bb51f4c7468603adb40ca734782009fd5e9382fa26e4106fd06e&X-Amz-SignedHeaders=host&actor_id=117072021&key_id=0&repo_id=588181932" width = 120> 
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width = 100> 
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width = 100> 
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width = 100> 
+    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width = 100> 
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width = 100> 
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240914T020235Z&X-Amz-Expires=300&X-Amz-Signature=7bebb28b8330ed6a1729d4760a49988fa6a9b55307d9da27b345dc92bac75864&X-Amz-SignedHeaders=host&actor_id=117072021&key_id=0&repo_id=588181932" width = 100> 
+    <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width = 100> 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sloththelazy&label=Profile%20views&color=0e75b6&style=flat" alt="sloththelazy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sloththelazy" alt="sloththelazy" /></a> </p>
+<div class="flex flex-col md:flex-row items-center justify-between p-6">
+  <!-- Left Side: Text Content -->
+  <div class="md:w-1/2 space-y-4 text-left">
+    <p>🔭 I’m currently working on <strong>SciML</strong></p>
+    <p>🌱 I’m currently learning <strong>SciML</strong></p>
+    <p>👯 I’m looking to collaborate on <strong>Federated Learning</strong></p>
+    <p>💬 Ask me about <strong>React, Vue, GSAP, and Tailwind CSS</strong></p>
+    <p>📫 How to reach me: <a href="mailto:jeevantprakharsingh2004@gmail.com" class="text-blue-500 underline">jeevantprakharsingh2004@gmail.com</a></p>
+    <p>⚡ Fun fact: <em>I think I was a sloth in my previous life</em></p>
+  </div>
 
-<p align="left"> <a href="https://twitter.com/gulgulusingh" target="blank"><img src="https://img.shields.io/twitter/follow/gulgulusingh?logo=twitter&style=for-the-badge" alt="gulgulusingh" /></a> </p>
+  <!-- Right Side: Image -->
+  <div class="md:w-1/2 flex justify-center mt-6 md:mt-0">
+    <img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2e210.gif" alt="Image" class="rounded-lg shadow-lg max-w-full h-auto">
+  </div>
+</div>
 
-- 🔭 I’m currently working on **SciML**
+### Connect with me:
 
-- 🌱 I’m currently learning **SciML**
-
-- 👯 I’m looking to collaborate on **Federated Learning**
-
-- 💬 Ask me about **React , vue , gsap and tailwind css**
-
-- 📫 How to reach me **jeevantprakharsingh2004@gmail.com**
-
-- ⚡ Fun fact **I think I was a sloth in my previous life**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gulgulusingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gulgulusingh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/basic_lice_97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="basic_lice_97" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sloth-the-lazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sloth-the-lazy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sir_sloth_the_lazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sir_sloth_the_lazy" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jeevantforal70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jeevantforal70" height="30" width="40" /></a>
+  <a href="https://twitter.com/gulgulusingh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gulgulusingh" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/basic_lice_97" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="basic_lice_97" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/sloth-the-lazy" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sloth-the-lazy" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/sir_sloth_the_lazy" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sir_sloth_the_lazy" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/jeevantforal70" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jeevantforal70" height="30" width="40" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left"> <img src ="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width=50> Languages and Tools:</h1>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width=200>
+</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sloththelazy&show_icons=true&locale=en&layout=compact" alt="sloththelazy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sloththelazy&show_icons=true&locale=en" alt="sloththelazy" /></p>
