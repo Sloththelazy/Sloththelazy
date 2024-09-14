@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240914T021216Z&X-Amz-Expires=300&X-Amz-Signature=fcf01a70fb6682dfb84ce0983ee05ff8b0bae7e9f7779a5e84a42c3efddf85f1&X-Amz-SignedHeaders=host&actor_id=117072021&key_id=0&repo_id=588181932">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7">
 </div>
 <h1 align="center">Hi <img src="" width= 100> , I'm Jeevant Singh</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Developer</h3>
