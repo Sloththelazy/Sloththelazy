@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="">, I'm Jeevant Singh</h1>
+<h1 align="center">Hi <img src="https://github.com/Sloththelazy/Sloththelazy/blob/main/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif">, I'm Jeevant Singh</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Developer</h3>
 <div align = "center">
     <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Alt Text">  
