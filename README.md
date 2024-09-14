@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240914T020938Z&X-Amz-Expires=300&X-Amz-Signature=c5b528d62e3b122adc5823bbe4db8fc6c4603678216da5f65c48977f4f7d4ad1&X-Amz-SignedHeaders=host&actor_id=117072021&key_id=0&repo_id=588181932" width= 100> , I'm Jeevant Singh</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Developer</h3>
 <div align ="center">
-<img src = "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width = 100> 
+<img src = "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width = 250> 
 </div>
 <div align = "center">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240914T023546Z&X-Amz-Expires=300&X-Amz-Signature=a7505ef22ed936a66aad62b72d76a286b55e1562c4f1d2bf7523ca5f6e266c74&X-Amz-SignedHeaders=host&actor_id=117072021&key_id=0&repo_id=588181932" alt="Alt Text">  
