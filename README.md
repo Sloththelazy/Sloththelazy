@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jeevant Singh</h1>
+<h1 align="center">Hi <img src="">, I'm Jeevant Singh</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Developer</h3>
+<div align = "center">
+    <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Alt Text">  
+</div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="Alt Text">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Alt Text">
+  <img src="" alt="Alt Text"> 
+  <img src="" alt="Alt Text">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sloththelazy&label=Profile%20views&color=0e75b6&style=flat" alt="sloththelazy" /> </p>
